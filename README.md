@@ -7,10 +7,10 @@ This project is done as follows:
    - Perform calculations
    - Create data series and dataframes.
    
- Using the software environment Jupyter Notebook and Pandas and applying two-dimensional plotting library matplotlib, assist us to produce publication quality figures
+ Using the software environment Jupyter Notebook and Pandas and applying two-dimensional plotting library Matplotlib, assist us to produce publication quality figures
  and tell a visual story from the data which means to present complex findings in a way that is informative and engaging to all the stackholders. 
  
- the specific purpose of this analysis in fact is to create a summary dataframe of the ride-sharing data by city type and then using pandas and Matplotlib to create 
+ In fact, the specific purpose of this analysis to create a summary dataframe of the ride-sharing data by city type and then using pandas and Matplotlib to create 
  a multiple-line graph that shows the total weekly fares for each city type. 
    
   
