@@ -40,20 +40,13 @@ Looking at the ride-sharing dataframe, we can see:
 The above results show that the total rides, drivers and fares in the urban cities are more than the other cities while the average fare per ride and driver in the rural 
 cities are more than the suburban and urban cities. In other words, suburban cities are mediated by all the five parameters.
 
-
-   
-   
- 
-   
-
 ## Summary
-After replacing the values of reading and math scores with "NaN"s, the values of the "School Type", "Total Students", "Total School Budget" and "Per Student Budget"
-have not changed, and have been influential in associated with math and reading scores
-- " Average Math Score" has moved to 83.350937
-- " Average Reading Score " has moved to 83.896082 
-- " % Passing Math " has moved to 93.185690
-- " % Passing reading " has moved to 97.018739
-- " % Overall Passing " has moved to 90.630324
+Looking at the sum of the fare for each week in the first quarter of the year, 
 
 
-![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Four_Major_Changes.PNG)
+
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+
+
+
+the total fares in the urban cities is more than the other type of cities and it could be a sence of overall revenue.
