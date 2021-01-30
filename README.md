@@ -21,11 +21,14 @@ This project is done as follows:
 - Module: Pandas, Numpy, Matplotlib.pyplot
 
 ## Results
-1. How is the district summary affected? 
+Looking at the ride-sharing dataframe, we can see:
 
-As seen in the following DataFrame: 
+There is at least one outlier, which is close to 40. This our maximum data point, 39.
+The minimum is 12.
+The median is 24 or the 50th percentile.
+The standard deviation is about 5 because the box upper and lower boundaries represent the upper and lower quartiles.
 
-![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/district_summary.PNG)
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/ride_sharing_data.PNG)
 
    - The total budget for 15 covered schools is specified with a subtlety of 39170 students.
    - The average grades of the math and reading courses are specified.
