@@ -16,9 +16,9 @@ This project is done as follows:
   
 
 ## Resources
-- Data Sources: schools_complete.csv, students_complete.csv
-- Software: [Python 3.7.6](https://www.python.org/downloads/) and [Anaconda(Jupyter Notebook)](https://www.anaconda.com/products/individual)
-- Module: pandas, numpy
+- Data Sources: city_data.csv, ride_data.csv
+- Software: [Anaconda(Jupyter Notebook)](https://www.anaconda.com/products/individual), [Matplotlib-Python Plotting](https://matplotlib.org/) 
+- Module: Pandas, Numpy, Matplotlib.pyplot
 
 ## Results
 1. How is the district summary affected? 
