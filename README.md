@@ -27,6 +27,7 @@ Looking at the ride-sharing dataframe, we can see:
 ![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/ride_sharing_data.PNG)
 
 
+
    - The total rides in the urban cities is about 2.6- and 13-times more per city than the suburban and rural cities, respectively.
    - The total drivers in the urban cities is about 5- and 31-times more per city than the suburban and rural cities, respectively. This shows that driving jobs
    in the urban cities is more prosperous.
@@ -35,6 +36,8 @@ Looking at the ride-sharing dataframe, we can see:
    - The amount of average fare per ride in the rural and suburban cities is very close while the average fare per ride in the urban cities is less than the 
    amount of average fare per ride in the recent cities.
    - The average fare per driver in the rural and suburban cities is about 3.3- and 2.4-times more than the average fare per driver in the urban cities, repectively.
+The above results show that total rides, drivers and fares in the urban cities are more than the other cities while the average fare per ride and driver in the rural 
+cities are more than the suburban and urban cities. In other words, suburban cities are mediated by all the five parameters.
 
 
    
