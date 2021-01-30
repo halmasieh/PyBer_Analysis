@@ -1,9 +1,20 @@
 # PyBer_Analysis
 
-# School_District_Analysis
-
-
 ## Project Overview
+This project is done as follows: 
+   - Inspect data
+   - Merge data sets
+   - Perform calculations
+   - Create data series and dataframes.
+ Using the software environment Jupyter Notebook and Pandas and applying two-dimensional plotting library matplotlib, assist us to produce publication quality figures
+ and tell a visual story from the data which means to present complex findings in a way that is informative and engaging to all the stackholders. 
+ 
+ the specific purpose of this analysis in fact is to create a summary dataframe of the ride-sharing data by city type and then using pandas and Matplotlib to create 
+ a multiple-line graph that shows the total weekly fares for each city type. 
+   
+   
+
+
 The purpose of this analysis is to aggregate data and analyze them for purposeful use in school district. In fact, having access to 
 every students' math and reading scores as well as various information on school funding sources can help us with this data analysis at both
 the school and district level. 
