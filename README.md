@@ -41,7 +41,7 @@ The above results show that the total rides, drivers and fares in the urban citi
 cities are more than the suburban and urban cities. In other words, suburban cities are mediated by all the five parameters.
 
 ## Summary
-Looking at the sum of the fare for each week in the first quarter of the year, 
+1- Looking at the sum of the fare for each week in the first quarter of the year, 
 
 
 
@@ -51,7 +51,7 @@ Looking at the sum of the fare for each week in the first quarter of the year,
 
 the total fares in the urban cities is more than the other type of cities and it could be a sence of overall revenue.
 
-The analysis of the total fare from January-April 2019 based on the following plot is as follows:
+2- The analysis of the total fare from January-April 2019 based on the following plot is as follows:
 
 
 
@@ -60,6 +60,7 @@ The analysis of the total fare from January-April 2019 based on the following pl
 
    - The urban cities experienced the highest total fare before and after the month March and on equal terms this happens 
  for suburban and rural cities before March and in April, repectively. 
+   - 
  
  
  Undoubtedly, This analysis can be effective in job creation and economic circulation of the cities.
