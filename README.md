@@ -50,3 +50,16 @@ Looking at the sum of the fare for each week in the first quarter of the year,
 
 
 the total fares in the urban cities is more than the other type of cities and it could be a sence of overall revenue.
+
+The analysis of the total fare from January-April 2019 based on the following plot is as follows:
+
+
+
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+
+
+   - The urban cities experienced the highest total fare before and after the month March and on equal terms this happens 
+ for suburban and rural cities before March and in April, repectively. 
+ 
+ 
+ Undoubtedly, This analysis can be effective in job creation and economic circulation of the cities.
