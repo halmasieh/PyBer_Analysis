@@ -62,7 +62,7 @@ the total fares in the urban cities is more than the other type of cities and it
  for suburban and rural cities before March and in April, repectively. 
    - In general, total fare fluctation for urban, suburban and rural cities is in the intervals [1700-2500], [750,1400] and [0,500], respectively. Therefore, 
    monitoring the growth and stagnation of cities, can be used to start a business in the transportation industry.   
-   - Almost from mid-April, total fare growth in suburban cities has an upward trend compared to other cities.
+   - Almost from mid-April, total fare growth in suburban cities has an upward trend compared to other type of cities.
    
  
  Undoubtedly, This analysis can be effective in job creation and economic circulation of the cities.
